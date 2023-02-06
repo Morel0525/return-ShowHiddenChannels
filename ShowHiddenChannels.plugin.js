@@ -8,7 +8,7 @@
  * @updateUrl https://raw.githubusercontent.com/JustOptimize/return-ShowHiddenChannels/main/ShowHiddenChannels.plugin.js
 */
 
-module.exports = (() => {
+module.exports = () => {
 
   const config = {
     info: {
